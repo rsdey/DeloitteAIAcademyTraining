@@ -2,5 +2,5 @@ random data 1
 testing merge
 random data 2
 final data
-br1 data1
-br1 data2
+br2 data1
+br2 data2
